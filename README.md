@@ -1,1 +1,1 @@
-# linked-list
+# Data structures and algorithm
